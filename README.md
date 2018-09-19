@@ -1,2 +1,7 @@
 # hello-world
-tutorial, delete afterward
+-----
+Lets make some changes
+-----
+## Start here
+
+This is the beginning. Don't screw it up.
